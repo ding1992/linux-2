@@ -243,4 +243,3 @@ Internet scripts
 Many scripts on the 'Net won't work since they tend to assume a
 Solaris kernel, but if you look at them and read them to learn,
 then they can mostly be adapted for Linux.
-
